@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Сайт для работы с автономными учебными заданиями
 
-You can use the [editor on GitHub](https://github.com/iposov/learning-objects-public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Сайт [multivariant.ru](http://alpha.multivariant.ru) позволяет
+работать с учебными объектами. Это могут быть задания и
+учебные материалы различных видов.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Список возможностей:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iposov/learning-objects-public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Сайт имеет возможность регистрации, она обязательна для
+использования сайта. При регистрации указывается своё имя,
+которое будут видеть другие пользователи. Преподавателям
+лучше указывать там свои ФИО, студентам дополнительно номер группы.
+- Имя можно менять со временем в разделе "Личные данные".
+- Можно создавать задания, состоящие из форматированного текста,
+формул и приложенных файлов. У заданий есть краткое описание,
+текст условия с приложенными файлами и текст решения с приложенными
+файлами. Например, если у преподавателя уже есть PDF с условиями
+контрольной, он может создать задание и приложить этот PDF 
+к условию. 
+- Задания создаются и просматриваются в разделе сайта "Мои задания",
+он всегда доступен в меню.
